@@ -1,0 +1,10 @@
+[
+    {
+        "name": "obama",
+        "tensor": "a"
+    },
+    {
+        "name": "biden",
+        "tensor": "b"
+    }
+]
